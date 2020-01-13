@@ -2,6 +2,7 @@
 # Program Menghitung Nilai Mahasiswa Menggunakan Dictionary
 
    pada praktek kali ini, saya mencoba membuat program menentukan nilai mahasiswa dengan menggunakan Dictionary.
+   
    Source Code dan Penjelasan  
    
     
@@ -95,3 +96,5 @@
 
     else:
         print("Pilih menu yang tersedia: ")                                                    ## Jika menu yang dipilih tidak valid, akan muncul pesan tsb.
+
+Flowchart
