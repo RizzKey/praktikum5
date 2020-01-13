@@ -1,7 +1,6 @@
 # Praktikum 5
 # Program Menghitung Nilai Mahasiswa Menggunakan Dictionary
 
-
 dataMhs = {}                                                                                     ## Membuat Dictionary kosong
 print("==================================================================")
 print("|      PROGRAM INPUT NILAI MAHASISWA MENGGUNAKAN DICTIONARY      |")
