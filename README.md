@@ -1,4 +1,4 @@
-Pada praktek kali ini, saya mencoba membuat program menentukan nilai mahasiswa dengan menggunakan Dictionary.
+# Pada praktek kali ini, saya mencoba membuat program menentukan nilai mahasiswa dengan menggunakan Dictionary.
 
 Source Code dan Penjelasan
 dataMhs = {}                                                                                     ## Membuat Dictionary kosong
