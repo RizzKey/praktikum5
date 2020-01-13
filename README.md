@@ -96,3 +96,5 @@
 
     else:
         print("Pilih menu yang tersedia: ")                                                    ## Jika menu yang dipilih tidak valid, akan muncul pesan tsb.
+Flowchart
+![image](https://user-images.githubusercontent.com/56240954/72257530-7494c300-363e-11ea-8517-1ce96801d24e.png)
