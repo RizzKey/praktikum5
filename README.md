@@ -1,7 +1,6 @@
 # Praktikum 5
 # Program Menghitung Nilai Mahasiswa Menggunakan Dictionary
 Pada praktek kali ini, saya mencoba membuat program menentukan nilai mahasiswa dengan menggunakan Dictionary.
-
 Source Code dan Penjelasan
 dataMhs = {}                                                                                     ## Membuat Dictionary kosong
 print("==================================================================")
@@ -9,6 +8,7 @@ print("|      PROGRAM INPUT NILAI MAHASISWA MENGGUNAKAN DICTIONARY      |")
 print("==================================================================")
 while True:                                                                                      ## LOOPING AKTIF
     c = input("\nA)dd, E)dit, S)earch, D)elete L)ist, Q)uit: ")                                  ## Membuat Menu
+    
     ## MENU ADD
     if (c.lower() == 'a'):                                                                       ## MENU ADD
         print("\n=========================")
